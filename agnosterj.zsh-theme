@@ -86,7 +86,8 @@ agnj_setup_colors() {
       ;;
     dark|*)
       AGNJ_COLOR_BG=black
-      AGNJ_COLOR_FG=black
+      #AGNJ_COLOR_FG=black
+      AGNJ_COLOR_FG=white
       ;;
   esac
 }
