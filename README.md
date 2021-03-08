@@ -1,3 +1,16 @@
+
+
+# Modified AgnosterJ Theme for zsh
+The agnoster theme was meant for a solaris color scheme. If your terminal
+uses a black background, the name of the directories can be hard to read.
+The agnosterj theme has been updated so that the name of directories is white instead of black.
+
+Before:  
+    ![](original_agnoster_theme.png)
+
+After:  
+    ![](modified_agnoster_theme.png)
+
 # AgnosterJ
 
 This is a Zsh theme optimized for people who use:
